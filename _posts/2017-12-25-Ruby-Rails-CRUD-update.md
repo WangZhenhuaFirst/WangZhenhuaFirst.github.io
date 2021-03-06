@@ -15,7 +15,7 @@ tags:
 
 #### 1. update(id, attributes)
 Updates an object (or multiple objects) and saves it to the database, if validations pass. The resulting object is returned whether the object was saved successfully to the database or not.
-可用于修改一个或多个对象的属性，通过数据验证后，就会将其保存到数据库中。无论是否成功保存到数据库中，该方法都会返回结果对象。**?(这就话我还不懂是什么意思)**
+可用于修改一个或多个对象的属性，通过数据验证后，就会将其保存到数据库中。无论是否成功保存到数据库中，该方法都会返回结果对象。**?(这句话我还不懂是什么意思)**
 
 - id – This should be the id or an array of ids to be updated.
 - attributes – This should be a hash of attributes to be set on the object, or an array of hashes.
